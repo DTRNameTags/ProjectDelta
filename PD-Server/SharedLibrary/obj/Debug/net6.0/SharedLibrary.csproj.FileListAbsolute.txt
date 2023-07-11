@@ -1,0 +1,12 @@
+/Users/connor/Documents/GitHub/ProjectDelta/PD-Server/SharedLibrary/bin/Debug/net6.0/SharedLibrary.deps.json
+/Users/connor/Documents/GitHub/ProjectDelta/PD-Server/SharedLibrary/bin/Debug/net6.0/SharedLibrary.dll
+/Users/connor/Documents/GitHub/ProjectDelta/PD-Server/SharedLibrary/bin/Debug/net6.0/SharedLibrary.pdb
+/Users/connor/Documents/GitHub/ProjectDelta/PD-Server/SharedLibrary/obj/Debug/net6.0/SharedLibrary.csproj.AssemblyReference.cache
+/Users/connor/Documents/GitHub/ProjectDelta/PD-Server/SharedLibrary/obj/Debug/net6.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/connor/Documents/GitHub/ProjectDelta/PD-Server/SharedLibrary/obj/Debug/net6.0/SharedLibrary.AssemblyInfoInputs.cache
+/Users/connor/Documents/GitHub/ProjectDelta/PD-Server/SharedLibrary/obj/Debug/net6.0/SharedLibrary.AssemblyInfo.cs
+/Users/connor/Documents/GitHub/ProjectDelta/PD-Server/SharedLibrary/obj/Debug/net6.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/connor/Documents/GitHub/ProjectDelta/PD-Server/SharedLibrary/obj/Debug/net6.0/SharedLibrary.dll
+/Users/connor/Documents/GitHub/ProjectDelta/PD-Server/SharedLibrary/obj/Debug/net6.0/refint/SharedLibrary.dll
+/Users/connor/Documents/GitHub/ProjectDelta/PD-Server/SharedLibrary/obj/Debug/net6.0/SharedLibrary.pdb
+/Users/connor/Documents/GitHub/ProjectDelta/PD-Server/SharedLibrary/obj/Debug/net6.0/ref/SharedLibrary.dll

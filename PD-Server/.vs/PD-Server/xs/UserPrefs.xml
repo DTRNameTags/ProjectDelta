@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{64D31D25-BED8-4A87-B9DF-B5B06F6FA9DE}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Server PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Server/Controllers/PlayerController.cs">
+    <Files>
+      <File FileName="Server/Controllers/PlayerController.cs" Line="11" Column="41" />
+      <File FileName="SharedLibrary/Player.cs" Line="3" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PD-Server" expanded="True">
+            <Node name="Server">
+              <Node name="Controllers" expanded="True">
+                <Node name="PlayerController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
